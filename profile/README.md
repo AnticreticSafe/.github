@@ -16,7 +16,6 @@ This repository is packaged as a monolithic delivery for the hackathon: UI, smar
 - Core pages: https://github.com/AnticreticSafe/front-end/blob/main/src/pages/LandingPage.tsx, https://github.com/AnticreticSafe/front-end/blob/main/src/pages/CreateAgreementPage.tsx, https://github.com/AnticreticSafe/front-end/blob/main/src/pages/AgreementDetailPage.tsx
 - Contracts: https://github.com/AnticreticSafe/front-end/blob/main/contracts/AnticreticSafe.sol, https://github.com/AnticreticSafe/front-end/blob/main/contracts/AnticreticSafeUSD.sol
 - ABIs: https://github.com/AnticreticSafe/front-end/tree/main/src/abi
-- Docs: https://github.com/AnticreticSafe/front-end/blob/main/src/documents/Details.md, https://github.com/AnticreticSafe/front-end/blob/main/src/documents/NoxDocumentation.md
 - Feedback: https://github.com/AnticreticSafe/front-end/blob/main/feedback.md
 
 ## What The Product Does
