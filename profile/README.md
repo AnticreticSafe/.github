@@ -318,6 +318,7 @@ graph LR
 - The UI is intentional and demo-friendly, but the evaluation value is in the contract flow, confidential token handling, and role-based agreement lifecycle.
 - The testnet target shown in the app is Arbitrum Sepolia.
 - The app reads and writes live on-chain data for the main workflow.
+- See [feedback.md](front-end/feedback.md) for iExec tools usage notes and recommendations.
 
 ## User Interaction Flows
 
